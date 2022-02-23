@@ -2,7 +2,18 @@ import createMathOperation from './.internal/createMathOperation.js'
 
 /**
  * Adds two numbers.
- *
+ *a
+ sf
+ as
+ f
+
+ as
+ f
+ as
+ f
+ sa
+ f
+ as
  * @since 3.4.0
  * @category Math
  * @param {number} augend The first number in an addition.
