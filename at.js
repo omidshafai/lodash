@@ -3,7 +3,7 @@ import baseFlatten from './.internal/baseFlatten.js'
 
 /**
  * Creates an array of values corresponding to `paths` of `object`.
- *
+ *aaaaaaaaaa
  * @since 1.0.0
  * @category Object
  * @param {Object} object The object to iterate over.
